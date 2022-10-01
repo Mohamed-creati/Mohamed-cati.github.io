@@ -1,0 +1,111 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>My Portfolio</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+     integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" 
+     crossorigin="anonymous" referrerpolicy="no-referrer" />" 
+</head>
+
+<body>
+  <div class="hero">
+      <!--header secion starts here-->
+        <header> 
+            
+            <nav>
+                <h2 class="logo">Portfo<span>lio</span></h2>
+                <ul>
+                    <li><a href="index.html">About Me</a></li>
+                    <li><a href="contact.html">Contact Me</a></li>
+                    <li><a href="registration.html">Registration</a></li>
+                </ul>
+                <a href="login.html" class="btn">Login</a>
+            </nav>
+
+        </header>
+
+        <main>
+            <!--home section starts here-->
+            <div class="detel">
+                <h1>I'm Itoro <span>Joseph</span></h1>
+                
+                <p>Hobbyist Web Developer with a working proficiency <br> in
+                    HTML, CSS, and Bootstrap. I have solid understanding <br> of Linux,
+                    SASS, and Git. Currently working to take the step <br> from Hobbyist 
+                    to Professional.</p>
+                    <br>
+                    <br>
+                <p>Connect with me on</p>
+                <div class="logos">
+                    <i class="fa-brands fa-github"></i>
+                    <i class="fa-brands fa-twitter"></i>
+                    <i class="fa-brands fa-linkedin-in"></i>
+                </div>
+            </div>
+               
+            <div class="images">
+                <img src="images/shape-27325.png" alt="shapes-banner" class="shape">
+                <div class="portrait"><img src="images/backgoundimg.jpeg"></div>
+            </div>
+    </div>
+    <div class="hero-2">
+          <!--about me secion starts here-->
+            <div class="about">
+                <div class="title">
+                    <h2>About Me...</h2>
+                </div>
+
+                <div class="box">
+                    <div class="card">
+                        <i class="fa-solid fa-plug"></i>
+                        <h3>Hobbies</h3>
+                        <div class="para">
+                            <ul>  
+                                <li>Reading</li>
+                                <li>Video games</li>
+                                <li>Fitness</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <i class="fa-solid fa-plug"></i>
+                        <h3>Priorities</h3>
+                        <div class="para">
+                            <ul>  
+                                <li>God</li>
+                                <li>Relationships</li>
+                                <li>Career</li>
+                            </ul>
+                        </div>
+                </div>
+
+                <div class="card">
+                    <i class="fa-solid fa-business-time"></i>
+                    <h3>Skills</h3>
+                    <div class="para">
+                        <ul>  
+                            <li>Programming</li>
+                            <li>Digital Marketing</li>
+                            <li>Technical Writing</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                </div>
+                <button type="button">Contact Me</button>
+            </div>
+            
+        </main>
+        <footer>
+            <p class="copyright">digitalnobsx© 2022 </p>
+        </footer>
+
+    </div>
+</body>
+
+</html>
