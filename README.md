@@ -1,3 +1,34 @@
+
+<html>
+
+<head>
+
+  <title>What appears in browser tab</title>
+
+</head>
+
+<body>
+  <!-- Largest heading size-->
+  <h1>My first web page</h1>
+  
+   <!-- Sub heading-->
+  <h2>Just Text!</h2>
+
+  <!-- paragraph tag is used for adding text-->
+  <p>In different sizes</p>
+  <p>I can write as many paragraphs as I need...</p>
+
+
+<img src="images/image.jpg">
+
+  
+</body>
+
+</html>
+
+
+
+
 <h1>Hello!</h1>
 <p>My name is Mohamed</p>
 <p>I like <b>boxing</b> and <i>fishing</i>
